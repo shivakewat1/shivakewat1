@@ -1,6 +1,5 @@
-## 👋 Hi, I'm Shiva Kewat
+# 👋 Hi, I'm Shiva Kewat
 
-# 💫 About Me:
 I’m a B.Tech CSE student with a strong interest in Artificial Intelligence, Machine Learning, and Web Development.<br><br>I love learning by building projects, exploring new technologies, and improving my skills one step at a time.<br>Currently focused on Python, ML models, and creating useful web apps 🚀<br><br>What I’m Working On<br><br>🤖 AI/ML projects using Python<br>🌐 Full-stack web applications<br>📊 Data preprocessing & model building<br>🚀 Improving problem-solving skills
 
 
