@@ -210,24 +210,24 @@ Full MERN + REST API architecture.
 </table>
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats 📊
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivakewat1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&card_width=420" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakewat1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=320" height="180"/>
+
 
 </div>
+
+<br/>
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=shivakewat1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<img src="https://streak-stats.demolab.com?user=shivakewat1&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakewat1&theme=tokyo-night&hide_border=true&area=true&custom_title=⚡%20Shiva's%20Contribution%20Graph%20⚡" width="95%"/>
