@@ -1,77 +1,61 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:0a3d62,100:1e3799&height=220&section=header&text=SHIVA%20KEWAT&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%20%2F%20Cloud%20Engineer%20%7C%20Problem%20Solver&descAlignY=60&descSize=17&descColor=a8dadc&stroke=00d4ff&strokeWidth=3" width="100%"/>
-</div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5e6d3,30:e8d5b7,60:d4a574,100:c8956c&height=280&section=header&text=SHIVA%20KEWAT&fontSize=85&fontColor=3d2b1f&animation=fadeIn&fontAlignY=38&desc=✦%20MERN%20Stack%20Developer%20✦%20AI%20Engineer%20✦%20Cloud%20Explorer%20✦&descAlignY=60&descSize=18&descColor=5c3d2e&stroke=c8956c&strokeWidth=2"/>
 
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1800&pause=600&color=00B4D8&center=true&vCenter=true&width=800&lines=🔥+MERN+Stack+Developer+%7C+CGPA+8.36;🤖+AI+SaaS+%7C+Voice+Assistant+%7C+Hospital+System;☁️+AWS+%2B+REST+APIs+%2B+Real+World+Projects;💼+MERN+Intern+%7C+Open+To+Opportunities;🚀+I+Don't+Just+Learn+—+I+Ship+Products!)](https://git.io/typing-svg)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=1800&pause=600&color=8B4513&center=true&vCenter=true&width=850&height=55&lines=👋+Hey!+I'm+Shiva+Kewat;🔥+MERN+Stack+Developer;🤖+AI+%2F+ML+Engineer;☁️+AWS+%2B+GCP+Cloud+Builder;🚀+3+Production+Projects+Shipped;💼+CGPA+8.36+%7C+Open+To+Work!" />
 
 <br/>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=shivakewat1&style=for-the-badge&color=00b4d8&labelColor=0d1b2a&label=👁️+PROFILE+VIEWS)&nbsp;
-![](https://img.shields.io/github/followers/shivakewat1?style=for-the-badge&color=00b4d8&labelColor=0d1b2a&label=🤝+FOLLOWERS)&nbsp;
-![](https://img.shields.io/badge/CGPA-8.36-gold?style=for-the-badge&labelColor=0d1b2a)&nbsp;
-![](https://img.shields.io/badge/STATUS-Open%20To%20Work-brightgreen?style=for-the-badge&labelColor=0d1b2a)
+![](https://komarev.com/ghpvc/?username=shivakewat1&style=for-the-badge&color=c8956c&labelColor=3d2b1f&label=👁+VIEWS)
+![](https://img.shields.io/badge/💼-OPEN%20TO%20WORK-c8956c?style=for-the-badge&labelColor=3d2b1f)
+![](https://img.shields.io/badge/🎓-CGPA%208.36-d4a574?style=for-the-badge&labelColor=3d2b1f)
+![](https://img.shields.io/badge/🚀-3%20PROJECTS-e8d5b7?style=for-the-badge&labelColor=3d2b1f&color=8B4513)
+![](https://img.shields.io/badge/☁️-AWS%20%2B%20GCP-f5e6d3?style=for-the-badge&labelColor=3d2b1f&color=5c3d2e)
 
 </div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br/>
+## ✦ About Me
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-</div>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
-
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="52%" valign="top">
 
 ```javascript
-const shiva = {
-  name     : "Shiva Kewat",
-  title    : "MERN Stack Developer 🔥",
-  degree   : "B.Tech CSE | CGPA: 8.36 🎓",
-  intern   : "MERN Stack Internship ✅",
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//   Developer Profile v5.0
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  projects : [
-    "🤖 AI SaaS Platform",
-    "🎙️ Voice Assistant (NLP)",
-    "🏥 Hospital Mgmt System"
-  ],
+const SHIVA = {
+  name      : "Shiva Kewat 🇮🇳",
+  role      : "MERN Stack Developer 🔥",
+  education : "B.Tech CSE | CGPA 8.36 🎓",
+  intern    : "MERN Stack Intern ✅",
 
-  skills   : ["React","Node","MongoDB",
-              "Express","AWS","REST APIs"],
+  stack     : ["React ⚛️", "Node.js 🟢",
+               "MongoDB 🍃", "Express ⚡"],
 
-  ai_ml    : ["Python","scikit-learn",
-              "OpenCV","Pandas","NumPy"],
+  shipped   : ["🤖 AI SaaS Platform",
+               "🎙️ Voice Assistant",
+               "🏥 Hospital System"],
 
-  motto    : "Ship fast. Learn faster. 🚀",
-  status   : "💼 Open to Opportunities!"
+  cloud     : ["AWS ☁️", "GCP 🌐",
+               "Firebase 🔥"],
+
+  superpower: "Ship real products fast ⚡",
+  available : true  // ← Hire me!
 };
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="48%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="260" style="border-radius:12px"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="280"/>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/🔥_Projects_Built-3-00b4d8?style=flat-square&labelColor=0d1b2a)
-![](https://img.shields.io/badge/☁️_Cloud-AWS_+_GCP-orange?style=flat-square&labelColor=0d1b2a)
-![](https://img.shields.io/badge/🎓_CGPA-8.36-gold?style=flat-square&labelColor=0d1b2a)
-![](https://img.shields.io/badge/💼_Intern-MERN_Stack-brightgreen?style=flat-square&labelColor=0d1b2a)
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express&theme=light&perline=4"/>
 
 </td>
 </tr>
@@ -79,165 +63,112 @@ const shiva = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> Featured Projects 🚀
+## 🚀 Featured Projects
 
 <div align="center">
-
 <table>
 <tr>
 
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80"/>
-<br/>
-<strong>🤖 AI SaaS Platform</strong>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="100"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+
+**🤖 AI SaaS Platform**
+
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+
 <br/><br/>
-Full-stack AI product with real users.<br/>
-REST APIs + Auth + AI integration.
+Full-stack AI product · Real users<br/>
+JWT Auth · REST APIs · Cloud deployed
 </td>
 
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="80"/>
-<br/>
-<strong>🎙️ Voice Assistant</strong>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpeechRecognition-00b4d8?style=flat-square"/>
+
+**🎙️ Voice Assistant**
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NLP-FF6F00?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/-OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SpeechAI-c8956c?style=flat-square"/>
+
 <br/><br/>
-Real-time conversational AI.<br/>
-NLP-powered voice commands.
+Real-time conversational AI<br/>
+NLP · Voice commands · Smart engine
 </td>
 
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
-<br/>
-<strong>🏥 Hospital Mgmt System</strong>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2189" width="100"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+**🏥 Hospital Mgmt System**
+
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Express-404d59?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
 <br/><br/>
-End-to-end healthcare solution.<br/>
-Full MERN + REST API architecture.
+End-to-end healthcare solution<br/>
+MERN · REST APIs · Role-based auth
 </td>
 
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-<br/>
-
-> 💬 *"I don't just learn technologies — I build real products that solve real problems."*
-
+> ✦ *"I don't just learn tech — I ship products that solve real problems."*
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Tech Arsenal ⚔️
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-<table>
-<tr><td align="center" colspan="4">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,ts&theme=light&perline=6"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,tailwind,figma&theme=light&perline=6"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,netlify,git,github&theme=light&perline=6"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,mysql,opencv,tensorflow,linux&theme=light&perline=6"/>
 
-**🔥 MERN Stack — Core Strength**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-</td></tr>
-
-<tr><td align="center" colspan="2" width="50%">
-
-**⚡ Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-</td><td align="center" colspan="2" width="50%">
-
-**☁️ Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-</td></tr>
-
-<tr><td align="center" colspan="2" width="50%">
-
-**🎨 Frontend & UI**
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</td><td align="center" colspan="2" width="50%">
-
-**🤖 AI / ML**
+<br/><br/>
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-</td></tr>
-
-<tr><td align="center" colspan="4">
-
-**🛠️ Tools**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</td></tr>
-</table>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> GitHub Stats 📊
+## 📊 GitHub Stats
 
 <div align="center">
 
-
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=shivakewat1&show_icons=true&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=fdf6ec&title_color=8B4513&icon_color=c8956c&text_color=3d2b1f" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakewat1&theme=solarized-light&hide_border=true&layout=compact&langs_count=8&bg_color=fdf6ec&title_color=8B4513&text_color=3d2b1f" height="175"/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shivakewat1&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakewat1&theme=tokyo-night&hide_border=true&area=true&custom_title=⚡%20Shiva's%20Contribution%20Graph%20⚡" width="95%"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=shivakewat1&theme=solarized-light&hide_border=true&background=fdf6ec&ring=c8956c&fire=8B4513&currStreakLabel=8B4513&sideLabels=5c3d2e&dates=5c3d2e"/>
 
 <br/>
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakewat1&bg_color=fdf6ec&color=8B4513&line=c8956c&point=3d2b1f&area=true&area_color=e8d5b7&hide_border=true&custom_title=Contribution+Graph" width="96%"/>
 
-![](https://github-profile-trophy.vercel.app/?username=shivakewat1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivakewat1&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 <br/>
 
@@ -247,69 +178,56 @@ Full MERN + REST API architecture.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect 🤝
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/shiva-kewat09">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=3d2b1f"/>
+</a>&nbsp;
 <a href="mailto:shivakewat.3537@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Hire_Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
+<img src="https://img.shields.io/badge/Gmail-Hire_Me!-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3d2b1f"/>
+</a>&nbsp;
 <a href="https://instagram.com/shivakewat.09">
-<img src="https://img.shields.io/badge/Instagram-Follow_Me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-&nbsp;
+<img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=3d2b1f"/>
+</a>&nbsp;
 <a href="https://reddit.com/user/LaughMachineX">
-<img src="https://img.shields.io/badge/Reddit-LaughMachineX-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Reddit-LaughMachineX-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white&labelColor=3d2b1f"/>
 </a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
-<br/>
-<strong>💼 Open To Work</strong>
-<br/>
-Internships & Full-Time
+<td align="center" width="24%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9265-6b1e3a7b5f4e" width="70"/><br/>
+<b>💼 Open To Work</b><br/>
+<sub>Internships & Full-Time</sub>
 </td>
-<td align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
-<br/>
-<strong>🔥 Core Strength</strong>
-<br/>
-MERN + AI + Cloud
+<td align="center" width="24%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="70"/><br/>
+<b>🔥 Core Stack</b><br/>
+<sub>MERN + AI + Cloud</sub>
 </td>
-<td align="center">
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50"/>
-<br/>
-<strong>🚀 Projects</strong>
-<br/>
-3 Production-Level Apps
+<td align="center" width="24%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2189" width="70"/><br/>
+<b>🚀 Projects</b><br/>
+<sub>3 Production Apps</sub>
 </td>
-<td align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50"/>
-<br/>
-<strong>🎓 Academic</strong>
-<br/>
-CGPA: 8.36
+<td align="center" width="24%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="70"/><br/>
+<b>🎓 Academic</b><br/>
+<sub>CGPA: 8.36</sub>
 </td>
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,40:1b263b,80:415a77,100:00b4d8&height=140&section=footer&text=Thanks+for+visiting!+Let's+build+something+legendary+🚀&fontSize=18&fontColor=e0fbfc&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized-light" width="75%"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c8956c,50:e8d5b7,100:f5e6d3&height=150&section=footer&text=Let's+Build+Something+Legendary+✦&fontSize=22&fontColor=3d2b1f&animation=twinkling&fontAlignY=65"/>
+
 </div>
