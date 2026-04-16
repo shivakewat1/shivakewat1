@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1400&pause=400&color=A855F7&center=true&vCenter=true&width=900&height=65&lines=👋+Hey%2C+I'm+Shiva+Kewat!;🔥+MERN+Stack+Developer;🧠+DSA+%26+Problem+Solving+Enthusiast;🤖+AI+%2F+ML+Engineer;☁️+AWS+%2B+GCP+Cloud+Builder;🚀+3+Production+Projects+Shipped;💼+CGPA+8.36+%7C+Intern+✅+%7C+Hire+Me!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1400&pause=400&color=A855F7&center=true&vCenter=true&width=900&height=65&lines=+Hey%2C+I'm+Shiva+Kewat!;+MERN+Stack+Developer;+DSA+%26+Problem+Solving+Enthusiast;+AI+%2F+ML+Engineer;+AWS+%2B+GCP+Cloud+Builder;+3+Production+Projects+Shipped;l+CGPA+8.36+%7C+Intern++%7C+Hire+Me!" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧑‍💻 About Me
+##  About Me
 
 <table width="100%">
 <tr>
@@ -28,27 +28,27 @@
 
 ```javascript
 /**
- * @author  Shiva Kewat 🇮🇳
+ * @author  Shiva Kewat 
  * @version 6.0
  */
 const SHIVA = {
-  role      : "MERN Stack Developer 🔥",
-  education : "B.Tech CSE | CGPA 8.36 🎓",
-  intern    : "MERN Stack Intern ✅",
+  role      : "MERN Stack Developer ",
+  education : "B.Tech CSE | CGPA 8.36 ",
+  intern    : "MERN Stack Intern ",
 
-  coreStack : ["React ⚛️", "Node.js 🟢",
-               "MongoDB 🍃", "Express ⚡"],
+  coreStack : ["React ", "Node.js ",
+               "MongoDB ", "Express "],
 
-  shipped   : ["🤖 AI SaaS Platform",
-               "🎙️ Voice Assistant",
-               "🏥 Hospital System"],
+  shipped   : [" AI SaaS Platform",
+               "Voice Assistant",
+               "Hospital System"],
 
   dsa       : ["Arrays", "Trees", "Graphs",
                "DP", "Recursion", "Backtracking"],
 
-  cloud     : ["AWS ☁️", "GCP 🌐", "Firebase 🔥"],
+  cloud     : ["AWS ", "GCP ", "Firebase "],
 
-  superpower: "Ship real products fast ⚡",
+  superpower: "Ship real products fast ",
   available : true   // ← Hire me!
 };
 ```
@@ -79,7 +79,7 @@ const SHIVA = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 <table>
@@ -89,7 +89,7 @@ const SHIVA = {
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="110"/>
 <br/><br/>
 
-**🤖 AI SaaS Platform**
+** AI SaaS Platform**
 
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -107,7 +107,7 @@ JWT Auth · REST APIs · Cloud deployed
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="110"/>
 <br/><br/>
 
-**🎙️ Voice Assistant**
+** Voice Assistant**
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NLP-FF6F00?style=flat-square&logo=google&logoColor=white"/>
@@ -125,7 +125,7 @@ NLP · Voice commands · Smart engine
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2189" width="110"/>
 <br/><br/>
 
-**🏥 Hospital Mgmt System**
+**Hospital Mgmt System**
 
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/-Express-404d59?style=flat-square&logo=express&logoColor=white"/>
@@ -142,12 +142,12 @@ MERN · REST APIs · Role-based auth
 </tr>
 </table>
 
-> 💬 *"I don't just learn tech — I ship products that solve real problems."*
+>  *"I don't just learn tech — I ship products that solve real problems."*
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚔️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -172,7 +172,7 @@ MERN · REST APIs · Role-based auth
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -200,7 +200,7 @@ MERN · REST APIs · Role-based auth
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
@@ -223,17 +223,17 @@ MERN · REST APIs · Role-based auth
 <tr>
 <td align="center" width="22%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9265-6b1e3a7b5f4e" width="70"/><br/>
-<b>💼 Open To Work</b><br/>
+<b>Open To Work</b><br/>
 <sub>Internships & Full-Time</sub>
 </td>
 <td align="center" width="22%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="70"/><br/>
-<b>🔥 MERN Stack</b><br/>
+<b> MERN Stack</b><br/>
 <sub>Core Strength</sub>
 </td>
 <td align="center" width="22%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="70"/><br/>
-<b>🧠 DSA</b><br/>
+<b>DSA</b><br/>
 <sub>Problem Solver</sub>
 </td>
 <td align="center" width="22%">
@@ -245,8 +245,6 @@ MERN · REST APIs · Role-based auth
 </table>
 
 <br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
 
 <br/><br/>
 
