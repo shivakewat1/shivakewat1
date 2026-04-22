@@ -39,7 +39,7 @@ const SHIVA = {
   coreStack : ["React ", "Node.js ",
                "MongoDB ", "Express "],
 
-  shipped   : [" AI SaaS Platform",
+  shipped   : [" Toolzy AI SaaS Platform",
                "Voice Assistant",
                "Hospital System"],
 
@@ -115,7 +115,7 @@ JWT Auth · REST APIs · Cloud deployed
 <img src="https://img.shields.io/badge/-SpeechAI-9333ea?style=flat-square"/>
 
 <br/><br/>
-Real-time conversational AI<br/>
+Real time conversational AI<br/>
 NLP · Voice commands · Smart engine
 <br/><br/>
 ![](https://img.shields.io/badge/Status-Live%20🟢-22c55e?style=flat-square&labelColor=0d0221)
@@ -142,7 +142,7 @@ MERN · REST APIs · Role-based auth
 </tr>
 </table>
 
->  *"I don't just learn tech — I ship products that solve real problems."*
+>  *"I don't just learn tech I ship products that solve real problems."*
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -224,7 +224,7 @@ MERN · REST APIs · Role-based auth
 <td align="center" width="22%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9265-6b1e3a7b5f4e" width="70"/><br/>
 <b>Open To Work</b><br/>
-<sub>Internships & Full-Time</sub>
+<sub>Internships & Full Time</sub>
 </td>
 <td align="center" width="22%">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="70"/><br/>
